@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+
+# Local logs and Shopify CLI state
+*.log
+.shopify/
+.shopify.lock
